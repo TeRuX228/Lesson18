@@ -1,0 +1,27 @@
+.container-fluid{
+    display: flex;
+}
+.hear{
+    
+}
+.bi:hover{
+    color: red;
+}
+.aa{
+    padding: 6px;
+    background-color: rebeccapurple;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 5px;
+}
+
+.card:hover{
+    
+    transform: scale(1.1);
+    
+}
+.card{
+    transition: transform .2s;
+}
